@@ -1,0 +1,14 @@
+C:\Users\Gab\Desktop\NewTalaents\NewTalents\bin\Debug\net8.0\NewTalents.exe
+C:\Users\Gab\Desktop\NewTalaents\NewTalents\bin\Debug\net8.0\NewTalents.deps.json
+C:\Users\Gab\Desktop\NewTalaents\NewTalents\bin\Debug\net8.0\NewTalents.runtimeconfig.json
+C:\Users\Gab\Desktop\NewTalaents\NewTalents\bin\Debug\net8.0\NewTalents.dll
+C:\Users\Gab\Desktop\NewTalaents\NewTalents\bin\Debug\net8.0\NewTalents.pdb
+C:\Users\Gab\Desktop\NewTalaents\NewTalents\obj\Debug\net8.0\NewTalents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gab\Desktop\NewTalaents\NewTalents\obj\Debug\net8.0\NewTalents.AssemblyInfoInputs.cache
+C:\Users\Gab\Desktop\NewTalaents\NewTalents\obj\Debug\net8.0\NewTalents.AssemblyInfo.cs
+C:\Users\Gab\Desktop\NewTalaents\NewTalents\obj\Debug\net8.0\NewTalents.csproj.CoreCompileInputs.cache
+C:\Users\Gab\Desktop\NewTalaents\NewTalents\obj\Debug\net8.0\NewTalents.dll
+C:\Users\Gab\Desktop\NewTalaents\NewTalents\obj\Debug\net8.0\refint\NewTalents.dll
+C:\Users\Gab\Desktop\NewTalaents\NewTalents\obj\Debug\net8.0\NewTalents.pdb
+C:\Users\Gab\Desktop\NewTalaents\NewTalents\obj\Debug\net8.0\NewTalents.genruntimeconfig.cache
+C:\Users\Gab\Desktop\NewTalaents\NewTalents\obj\Debug\net8.0\ref\NewTalents.dll
